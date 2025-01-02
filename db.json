@@ -82,5 +82,47 @@
                 ],
                 "nota": 4.5
             }
+        ],
+        "usuarios": [
+            {
+                "id": 1,
+                "nome": "Larissa Gabriela",
+                "cpf": "123.456.789-00",
+                "dataDeNascimento": "1998-06-08T16:14:45Z",
+                "email": "larissa@gabriela",
+                "senha": "1@345"
+            },
+            {
+                "id": 2,
+                "nome": "Guilherme Lira",
+                "cpf": "123.456.789-00",
+                "dataDeNascimento": "1991-05-08T16:14:45Z",
+                "email": "guilherme@lira",
+                "senha": "2@3467"
+            },
+            {
+                "id": 3,
+                "nome": "Ana Luiza",
+                "cpf": "009.456.789-00",
+                "dataDeNascimento": "2001-03-08T16:14:45Z",
+                "email": "ana@luiza",
+                "senha": "61!234"
+            },
+            {
+                "id": 4,
+                "nome": "Caroline Carvalho",
+                "cpf": "008.456.789-00",
+                "dataDeNascimento": "2001-08-08T16:14:45Z",
+                "email": "caroline@carvalho",
+                "senha": "67!345"
+            },
+            {
+                "id": 5,
+                "nome": "Camila Fernanda",
+                "cpf": "008.456.789-00",
+                "dataDeNascimento": "1992-02-01T16:14:45Z",
+                "email": "camila@fernanda",
+                "senha": "45&2345"
+            }
         ]
     }
